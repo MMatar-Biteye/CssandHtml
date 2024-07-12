@@ -1,0 +1,66 @@
+
+
+.Body{
+    background-color: #282828;
+    background-position: center;
+    background-size: cover;
+    margin: center;
+   
+}
+
+p{
+    color: white;
+}
+
+.container {
+    display: flex;
+    align-items: flex-start;
+}
+
+.Navigation1{
+    background-color:#282828 ;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    margin: 9%;
+}
+
+
+.Navigation2{
+    background-color:#282828 ;
+    
+}
+
+
+
+button{
+    background-color: black;
+    height: 50px;
+    width: 350px;
+    margin: 25px;
+    padding-left: 15px ;
+    padding-right: 15px;
+    color: white;
+    border-radius: 15px;
+    border: none;
+    font-size: 20px;
+}
+
+button:hover{
+    background-color:#242222 ;
+    border-radius: 45px;
+
+}
+
+.Button{
+    background-color: black;
+    height: 50px;
+    width: 90px;
+    margin: 5px;
+    padding-left: 10px ;
+    padding-right: 10px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+}
